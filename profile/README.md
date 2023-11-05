@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="../assets/nodejs.svg" height="200">
+  ![Node.js Logo](../../nodeboot-assets/nodejs.svg)
 </p>
 
 <p align="center">
