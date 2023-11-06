@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  {{< /*<!-- markdownlint-disable MD013 -->*/ >}}
-  ![Node.js Logo](https://github.com/nodeboot-projects/nodeboot-assets/blob/main/nodejs.svg)
+  <!-- markdownlint-disable-next-line MD013 -->
+  [Nodeboot Logo](https://github.com/nodeboot-projects/nodeboot-assets/blob/main/nodejs.svg)
 </p>
 
 <p align="center">
